@@ -1,0 +1,10 @@
+title: What inspires Michcioperz
+description: >
+  A collection of things Michcioperz likes
+baseurl: "/"
+url: "http://what.inspires.meekchopp.es"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

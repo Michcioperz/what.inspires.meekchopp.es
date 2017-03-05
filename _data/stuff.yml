@@ -1,0 +1,59 @@
+- name: I'd Rather Date My Laptop
+  type: webcomic
+  author: Little-Miss-Boxie
+  image: https://i.imgur.com/3kHnnWa.png
+  description: a cute story about weebs who schroedinger know each other
+  actions:
+  - type: Tapastic
+    link: https://tapastic.com/series/Id-rather-date-my-laptop
+- name: Endless Night
+  type: webcomic
+  author: LIZM
+  actions:
+  - type: Website
+    link: http://endless-night.net
+  - type: Tapastic
+    link: https://tapastic.com/series/Endless-Night
+- name: Humor me
+  type: webcomic
+  author: Marvin
+  image: https://i.imgur.com/5N2NUQn.jpg
+  actions:
+  - type: Tapastic
+    link: https://tapastic.com/series/Humor-me
+- name: Postcards in Braille
+  type: webcomic
+  author: kurisquare
+  actions:
+  - type: Website
+    link: http://postcards.kurisquare.com
+  - type: Tapastic
+    link: https://tapastic.com/series/postcards
+- name: Rosette, the dragonet
+  type: webcomic
+  actions:
+  - type: Tapastic
+    link: https://tapastic.com/series/Rosette 
+- name: Shelter
+  type: short animation
+  image: https://i.imgur.com/z5AFMnc.jpg
+  author: Porter Robinson, Madeon, A-1 Pictures
+  description: if an American electronic music creator can get a Japanese anime studio to make a short film with him, then think of all the things you can do too!
+  actions:
+  - type: YouTube
+    link: https://www.youtube.com/watch?v=fzQ6gRAEoy0
+  - type: Crunchyroll
+    link: http://www.crunchyroll.com/shelter/shelter-porter-robinson-presents-shelter-the-animation-722793
+- name: my ability to publish music
+  type: fact
+  author: Soundrop
+  description: yes you can put your music everywhere if you want
+  actions:
+  - type: Spotify
+    link: https://open.spotify.com/album/7afsV9l6eV53RsbGBMVEH9
+  - type: Deezer
+    link: http://www.deezer.com/album/15164759
+  - type: iTunes
+    link: https://itunes.apple.com/us/album/shadow-single/id1199147133
+  - type: Google Play
+    link: https://play.google.com/store/music/album/Michcioperz_Shadow?id=Bpwrb3ym6ahhp2ggvsullksy7m4
